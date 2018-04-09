@@ -25,6 +25,7 @@ public class DiegoPuma {
         for (int i = 1; i <=a ;i++) {
             resultado*=i;
         }
+        
         System.out.println(resultado);
     }
     
