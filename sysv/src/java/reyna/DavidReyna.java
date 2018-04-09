@@ -17,5 +17,10 @@ public class DavidReyna {
     public static void main(String[] args) {
         // TODO code application logic here
     }
-    
+    static double calcularFactorial(double x){
+    int x = 1;
+    for(int i=0;i<x+1;i++){
+     x = x*i;
+    }
+    }
 }
