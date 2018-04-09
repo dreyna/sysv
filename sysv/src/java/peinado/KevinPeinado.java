@@ -25,7 +25,7 @@ public class KevinPeinado {
     public static int calcularFactorial(int numero){
         int res = 1;
         
-        for (int i = 1; i <= numero; i++) {
+        for (int i = 1; i <= numero; i++){
             res *= i;
         }
         return res;
